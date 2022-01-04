@@ -1,0 +1,23 @@
+body {
+    background-color:green ;
+}
+
+
+
+.center {
+    width: 400px;
+    margin: 0 auto;
+
+}
+
+input {
+    font-size: 2em;
+}
+
+button {
+    font-size: 2em;
+}
+
+h1 {
+    font-size: 3em;
+}
